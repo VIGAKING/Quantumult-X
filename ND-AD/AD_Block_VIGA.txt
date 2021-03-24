@@ -1,1 +1,9 @@
+# https://raw.githubusercontent.com/VIGAKING/ND-AD/master/QuantumultX/AD_Block_VIGA.txt
+# Update time : 2021.3.24
 
+DOMAIN-SUFFIX,s3plus.meituan.net,REJECT
+DOMAIN-KEYWORD,toutiao.com,REJECT
+DOMAIN-KEYWORD,byteimg.com,REJECT
+DOMAIN-KEYWORD,pa.googleapis.com,REJECT
+DOMAIN-KEYWORD,d3yuiw4.com,REJECT
+DOMAIN-SUFFIX,image.uczzd.cn,REJECT

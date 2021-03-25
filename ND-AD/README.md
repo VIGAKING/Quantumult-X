@@ -1,1 +1,3 @@
-阻止广告联盟关键字和IP段, 建议和"AD_Block.txt"一起使用. QX格式"AD_Block.txt"已包含该规则.
+阻止iOS APP中广告
+自用，佛系更新，如果需要作者添加规则或者有任何问题与误杀，欢迎提交issues或pull request.
+

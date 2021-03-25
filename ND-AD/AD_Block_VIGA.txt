@@ -15,7 +15,7 @@ DOMAIN-SUFFIX,o2o-ad-clicking.alibaba.com,REJECT
 
 # DOMAIN-KEYWORD,pa.googleapis.com,REJECT
 # DOMAIN-KEYWORD,d3yuiw4.com,REJECT
-# DOMAIN-SUFFIX,image.uczzd.cn,REJECT
+DOMAIN-SUFFIX,image.uczzd.cn,REJECT
 
 
 

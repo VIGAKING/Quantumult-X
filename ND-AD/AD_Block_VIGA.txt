@@ -32,8 +32,9 @@ DOMAIN-SUFFIX,ether-pack.pangolin-sdk-toutiao.com,REJECT
 DOMAIN-SUFFIX,v3-be-pack.pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,cddp-track.aligames.com,REJECT
 DOMAIN-SUFFIX,dm.toutiao.com,REJECT
-
-
+DOMAIN-SUFFIX,i.snssdk.com,REJECT
+DOMAIN-SUFFIX,sf1-ttcdn-tos.pstatp.com,REJECT
+DOMAIN-SUFFIX,sf6-ttcdn-tos.pstatp.com,REJECT
 
 
 

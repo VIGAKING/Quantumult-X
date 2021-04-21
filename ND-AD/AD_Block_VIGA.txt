@@ -1,5 +1,5 @@
 # 订阅地址 https://raw.githubusercontent.com/VIGAKING/Quantumult-X/main/ND-AD/AD_Block_VIGA.txt
-# Update time : 2021.4.7
+# Update time : 2021.4.21
 
 DOMAIN-KEYWORD,pa.googleapis.com,REJECT
 DOMAIN-KEYWORD,d3yuiw4.com,REJECT

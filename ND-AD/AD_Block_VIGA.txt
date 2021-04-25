@@ -44,10 +44,7 @@ DOMAIN-SUFFIX,p3.pstatp.com,REJECT
 DOMAIN-SUFFIX,gw.alicdn.com,REJECT
 DOMAIN-SUFFIX,acs.m.taobao.com,REJECT
 
-# DOMAIN-SUFFIX,webcast5-normal-c-lf.amemv.com,REJECT
-# DOMAIN-SUFFIX,api3-normal-c-lf.amemv.com,REJECT
-# DOMAIN-SUFFIX,api5-normal-c-lf.amemv.com,REJECT
-# DOMAIN-SUFFIX,search3-search-lf.amemv.com,REJECT
+
 
 
 

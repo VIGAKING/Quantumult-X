@@ -45,7 +45,7 @@ DOMAIN-SUFFIX,gw.alicdn.com,REJECT
 DOMAIN-SUFFIX,acs.m.taobao.com,REJECT
 
 
-DOMAIN-KEYWORD,amemv,REJECT
+DOMAIN-KEYWORD,amemv.com,REJECT
 # DOMAIN-SUFFIX,webcast5-normal-c-lf.amemv.com,REJECT
 # DOMAIN-SUFFIX,api3-normal-c-lf.amemv.com,REJECT
 # DOMAIN-SUFFIX,api5-normal-c-lf.amemv.com,REJECT

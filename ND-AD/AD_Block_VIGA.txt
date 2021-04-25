@@ -1,5 +1,5 @@
 # 订阅地址 https://raw.githubusercontent.com/VIGAKING/Quantumult-X/main/ND-AD/AD_Block_VIGA.txt
-# Update time : 2021.4.21
+# Update time : 2021.4.25
 
 DOMAIN-KEYWORD,pa.googleapis.com,REJECT
 DOMAIN-KEYWORD,d3yuiw4.com,REJECT
@@ -36,6 +36,9 @@ DOMAIN-SUFFIX,i.snssdk.com,REJECT
 DOMAIN-SUFFIX,sf1-ttcdn-tos.pstatp.com,REJECT
 DOMAIN-SUFFIX,sf6-ttcdn-tos.pstatp.com,REJECT
 DOMAIN-SUFFIX,sdk-ios.ad.smaato.net,REJECT
+DOMAIN-SUFFIX,aweme.snssdk.com,REJECT
+
+
 
 
 

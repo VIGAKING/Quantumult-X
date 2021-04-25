@@ -38,13 +38,18 @@ DOMAIN-SUFFIX,sf6-ttcdn-tos.pstatp.com,REJECT
 DOMAIN-SUFFIX,sdk-ios.ad.smaato.net,REJECT
 DOMAIN-SUFFIX,aweme.snssdk.com,REJECT
 
-
 DOMAIN-SUFFIX,sf3-cdn-tos.huoshanstatic.com,REJECT
-# DOMAIN-SUFFIX,g.cn.miaozhen.com,REJECT
 DOMAIN-SUFFIX,s3.pstatp.com,REJECT
 DOMAIN-SUFFIX,p3.pstatp.com,REJECT
 DOMAIN-SUFFIX,gw.alicdn.com,REJECT
 DOMAIN-SUFFIX,acs.m.taobao.com,REJECT
+
+DOMAIN-SUFFIX,webcast5-normal-c-lf.amemv.com,REJECT
+DOMAIN-SUFFIX,api3-normal-c-lf.amemv.com,REJECT
+DOMAIN-SUFFIX,api5-normal-c-lf.amemv.com,REJECT
+DOMAIN-SUFFIX,search3-search-lf.amemv.com,REJECT
+
+
 
 
 

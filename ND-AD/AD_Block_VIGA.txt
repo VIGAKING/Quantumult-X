@@ -58,6 +58,7 @@ DOMAIN-SUFFIX, imgcache.qq.com,REJECT
 DOMAIN-SUFFIX, adash-emas.cn-hangzhou.aliyuncs.com,REJECT
 DOMAIN-SUFFIX, adsmind.ugdtimg.com,REJECT
 DOMAIN-SUFFIX, adashbc.ut.taobao.com,REJECT
+DOMAIN-SUFFIX, raddus.bayescom.com,REJECT
 
 
 

@@ -1,4 +1,4 @@
-
+# 订阅地址 https://raw.githubusercontent.com/VIGAKING/Quantumult-X/main/ND-AD/YouTubeAds.txt
 
 
 DOMAIN-SUFFIX, ads.doubleclick.net,REJECT

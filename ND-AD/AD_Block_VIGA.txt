@@ -62,7 +62,7 @@ DOMAIN-SUFFIX, adashbc.ut.taobao.com,REJECT
 DOMAIN-SUFFIX, raddus.bayescom.com,REJECT
 
 #去掉YouTube++底部广告
-DOMAIN-SUFFIX, ehg-youtube.hitbox.com,REJECT
+host-suffix, ehg-youtube.hitbox.com, reject
 
 
 

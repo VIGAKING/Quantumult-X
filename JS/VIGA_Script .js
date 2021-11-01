@@ -1,5 +1,5 @@
 
-# 订阅地址 https://raw.githubusercontent.com/VIGAKING/Quantumult-X/main/JS/Js_VIGA.conf
+# 订阅地址 https://raw.githubusercontent.com/VIGAKING/Quantumult-X/main/JS/VIGA_Script%20.js
 
 
 hostname = api.m.jd.com,trade-acs.m.taobao.com,api.weibo.cn, mapi.weibo.com, *.uve.weibo.com

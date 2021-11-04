@@ -65,12 +65,6 @@ DOMAIN-SUFFIX, raddus.bayescom.com,REJECT
 
 
 
-#YouTube广告
-^https?:\/\/.+\.googlevideo\.com\/.+(&oad|ctier) url reject-200
-^https?:\/\/youtubei\.googleapis\.com\/youtubei\/.+ad_ url reject-200
-^https?:\/\/\w+\.youtube\.com\/api\/stats\/(ads|.+adformat) url reject-200
-^https?:\/\/\w+\.youtube\.com\/(pagead|ptracking) url reject-200
-
 
 
 

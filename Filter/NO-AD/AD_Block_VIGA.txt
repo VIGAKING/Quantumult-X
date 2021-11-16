@@ -38,23 +38,20 @@ DOMAIN-SUFFIX,i.snssdk.com,REJECT
 DOMAIN-SUFFIX,sf1-ttcdn-tos.pstatp.com,REJECT
 DOMAIN-SUFFIX,sf6-ttcdn-tos.pstatp.com,REJECT
 DOMAIN-SUFFIX,sdk-ios.ad.smaato.net,REJECT
-DOMAIN-SUFFIX,aweme.snssdk.com,REJECT
+
+#DOMAIN-SUFFIX,aweme.snssdk.com,REJECT
+#DOMAIN-SUFFIX,gw.alicdn.com,REJECT
+#DOMAIN-SUFFIX,acs.m.taobao.com,REJECT
 
 DOMAIN-SUFFIX,sf3-cdn-tos.huoshanstatic.com,REJECT
 DOMAIN-SUFFIX,s3.pstatp.com,REJECT
 DOMAIN-SUFFIX,p3.pstatp.com,REJECT
-
-#DOMAIN-SUFFIX,gw.alicdn.com,REJECT
-#DOMAIN-SUFFIX,acs.m.taobao.com,REJECT
-
 DOMAIN-SUFFIX,wxsnsdy.wxs.qq.com,REJECT
 DOMAIN-SUFFIX,wx.qlogo.cn,REJECT
 DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com,REJECT
 DOMAIN-SUFFIX,api-server.xiaozujian.com,REJECT
 DOMAIN-SUFFIX,www.qibaobaike.net,REJECT
 DOMAIN-SUFFIX,fc.xiaozujian.com,REJECT
-
-
 DOMAIN-SUFFIX, sdk.e.qq.com,REJECT
 DOMAIN-SUFFIX, pgdt.ugdtimg.com,REJECT
 DOMAIN-SUFFIX, imgcache.qq.com,REJECT

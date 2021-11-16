@@ -1,6 +1,6 @@
 #自定义去广告规则
 #订阅地址 https://raw.githubusercontent.com/VIGAKING/Quantumult-X/main/ND-AD/AD_Block_VIGA.txt
-#Update time : 2021.10.27
+#Update time : 2021.11.16
 
 
 DOMAIN-KEYWORD,pa.googleapis.com,REJECT
@@ -63,8 +63,13 @@ DOMAIN-SUFFIX, adsmind.ugdtimg.com,REJECT
 DOMAIN-SUFFIX, adashbc.ut.taobao.com,REJECT
 DOMAIN-SUFFIX, raddus.bayescom.com,REJECT
 
-
-
+# > Google
+DOMAIN-SUFFIX,doubleclick.net,REJECT
+DOMAIN-SUFFIX,googleadservices.com,REJECT
+DOMAIN-SUFFIX,googleadsserving.cn,REJECT
+DOMAIN-SUFFIX,googlesyndication.com,REJECT
+DOMAIN-SUFFIX,googletagservices.com,REJECT
+DOMAIN,ads.youtube.com,REJECT
 
 
 

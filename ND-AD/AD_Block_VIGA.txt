@@ -63,13 +63,6 @@ DOMAIN-SUFFIX, adsmind.ugdtimg.com,REJECT
 DOMAIN-SUFFIX, adashbc.ut.taobao.com,REJECT
 DOMAIN-SUFFIX, raddus.bayescom.com,REJECT
 
-# > Google
-DOMAIN-SUFFIX,doubleclick.net,REJECT
-DOMAIN-SUFFIX,googleadservices.com,REJECT
-DOMAIN-SUFFIX,googleadsserving.cn,REJECT
-DOMAIN-SUFFIX,googlesyndication.com,REJECT
-DOMAIN-SUFFIX,googletagservices.com,REJECT
-DOMAIN,ads.youtube.com,REJECT
 
 
 

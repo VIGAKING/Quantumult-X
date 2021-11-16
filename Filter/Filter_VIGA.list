@@ -6,6 +6,9 @@
 DOMAIN-KEYWORD,4hudy116,proxy
 DOMAIN-KEYWORD,informatica,proxy
 
-DOMAIN-KEYWORD,informatica,proxy
-hostname = *.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com
+DOMAIN-SUFFIX,tiktokv.com,proxy
+DOMAIN-SUFFIX,byteoversea.com,proxy
+DOMAIN-SUFFIX,tik-tokapi.com,proxy
+
+
 

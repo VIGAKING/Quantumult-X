@@ -1,6 +1,7 @@
+#订阅地址 https://raw.githubusercontent.com/VIGAKING/Quantumult-X/main/rewrite/Script/TikTok-Unlock
+
 
 hostname = *.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com
-
 
 
 #tiktok 解锁直播区域限制

@@ -1,5 +1,5 @@
 #自定义去广告规则
-#订阅地址 https://raw.githubusercontent.com/VIGAKING/Quantumult-X/main/ND-AD/AD_Block_VIGA.txt
+#订阅地址 https://raw.githubusercontent.com/VIGAKING/Quantumult-X/main/Filter/ND-AD/AD_Block_VIGA.txt
 #Update time : 2021.11.16
 
 

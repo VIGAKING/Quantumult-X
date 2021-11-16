@@ -39,7 +39,7 @@ DOMAIN-SUFFIX,sf1-ttcdn-tos.pstatp.com,REJECT
 DOMAIN-SUFFIX,sf6-ttcdn-tos.pstatp.com,REJECT
 DOMAIN-SUFFIX,sdk-ios.ad.smaato.net,REJECT
 
-#DOMAIN,aweme.snssdk.com,REJECT
+DOMAIN,aweme.snssdk.com,REJECT
 #DOMAIN-SUFFIX,gw.alicdn.com,REJECT
 #DOMAIN-SUFFIX,acs.m.taobao.com,REJECT
 

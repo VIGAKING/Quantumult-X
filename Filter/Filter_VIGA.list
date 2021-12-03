@@ -1,11 +1,11 @@
 #自定义分流规则
 #订阅地址 https://raw.githubusercontent.com/VIGAKING/Quantumult-X/main/Filter/Filter_VIGA.list
-#Update time : 2021.11.16
+#Update time : 2021.12.03
 
 
 DOMAIN-KEYWORD,4hudy116,proxy
 DOMAIN-KEYWORD,informatica,proxy
-
+DOMAIN-KEYWORD,steam,proxy
 
 
 

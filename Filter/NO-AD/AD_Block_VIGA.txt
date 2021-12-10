@@ -1,13 +1,18 @@
 #自定义去广告规则
 #订阅地址 https://raw.githubusercontent.com/VIGAKING/Quantumult-X/main/Filter/ND-AD/AD_Block_VIGA.txt
-#Update time : 2021.11.16
+#Update time : 2021.12.10
 
+
+#DOMAIN-SUFFIX,gw.alicdn.com,REJECT
+#DOMAIN-SUFFIX,acs.m.taobao.com,REJECT
+#DOMAIN-SUFFIX,api.weibo.com,REJECT
+#DOMAIN-SUFFIX,ether-pack.pangolin-sdk-toutiao.com,REJECT
+#DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao.com,REJECT
+#DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com,REJECT
 
 DOMAIN-KEYWORD,pa.googleapis.com,REJECT
 DOMAIN-KEYWORD,d3yuiw4.com,REJECT
 DOMAIN-SUFFIX,image.uczzd.cn,REJECT
-DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao.com,REJECT
-DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com,REJECT
 DOMAIN-SUFFIX,sf3-fe-tos.pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,v6-be-pack.pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,sf3-be-pack.pglstatp-toutiao.com,REJECT
@@ -15,7 +20,6 @@ DOMAIN-SUFFIX,s3plus.meituan.net,REJECT
 DOMAIN-SUFFIX,p3-ad.byteimg.com,REJECT
 DOMAIN-SUFFIX,p6-ad.byteimg.com,REJECT
 DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com,REJECT
-DOMAIN-SUFFIX,api.weibo.com,REJECT
 DOMAIN-SUFFIX,o2o-ad-clicking.alibaba.com,REJECT
 DOMAIN-SUFFIX,track.vzhifu.net,REJECT
 DOMAIN-SUFFIX,v6-be-pack.pglstatp-toutiao.com,REJECT
@@ -30,7 +34,6 @@ DOMAIN-SUFFIX,sf6-be-pack.pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,sf3-be-pack.pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,cdn-adn-https-share.rayjump.com,REJECT
 DOMAIN-SUFFIX,p1-be-endcard.pglstatp-toutiao.com,REJECT
-DOMAIN-SUFFIX,ether-pack.pangolin-sdk-toutiao.com,REJECT
 DOMAIN-SUFFIX,v3-be-pack.pglstatp-toutiao.com,REJECT
 DOMAIN-SUFFIX,cddp-track.aligames.com,REJECT
 DOMAIN-SUFFIX,dm.toutiao.com,REJECT
@@ -38,11 +41,7 @@ DOMAIN-SUFFIX,i.snssdk.com,REJECT
 DOMAIN-SUFFIX,sf1-ttcdn-tos.pstatp.com,REJECT
 DOMAIN-SUFFIX,sf6-ttcdn-tos.pstatp.com,REJECT
 DOMAIN-SUFFIX,sdk-ios.ad.smaato.net,REJECT
-
 DOMAIN-SUFFIX,aweme.snssdk.com,REJECT
-#DOMAIN-SUFFIX,gw.alicdn.com,REJECT
-#DOMAIN-SUFFIX,acs.m.taobao.com,REJECT
-
 DOMAIN-SUFFIX,sf3-cdn-tos.huoshanstatic.com,REJECT
 DOMAIN-SUFFIX,s3.pstatp.com,REJECT
 DOMAIN-SUFFIX,p3.pstatp.com,REJECT
@@ -59,8 +58,17 @@ DOMAIN-SUFFIX, adash-emas.cn-hangzhou.aliyuncs.com,REJECT
 DOMAIN-SUFFIX, adsmind.ugdtimg.com,REJECT
 DOMAIN-SUFFIX, adashbc.ut.taobao.com,REJECT
 DOMAIN-SUFFIX, raddus.bayescom.com,REJECT
-
-
+DOMAIN-SUFFIX,bds.snssdk.com,REJECT
+DOMAIN-SUFFIX,smr.snssdk.com,REJECT
+DOMAIN-SUFFIX,pangolin.snssdk.com,REJECT
+DOMAIN-SUFFIX,extlog.snssdk.com,REJECT
+DOMAIN-SUFFIX,toblog.ctobsnssdk.com,REJECT
+DOMAIN-SUFFIX,pangolin.ctobsnssdk.com,REJECT
+DOMAIN-SUFFIX,devfu.cc,REJECT
+DOMAIN-SUFFIX,ulogs.umeng.com,REJECT
+DOMAIN-SUFFIX,adim.pinduoduo.com,REJECT
+DOMAIN-SUFFIX,ulogs.umengcloud.com,REJECT
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
 
 
 

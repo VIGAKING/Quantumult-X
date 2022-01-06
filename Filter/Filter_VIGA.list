@@ -8,5 +8,16 @@ DOMAIN-KEYWORD,informatica,proxy
 DOMAIN-KEYWORD,steam,proxy
 DOMAIN-KEYWORD,av01,proxy
 
+#Google Earth
+DOMAIN-SUFFIX,kh.google.com,proxy
+DOMAIN-SUFFIX,google.com,proxy
+DOMAIN-SUFFIX,earth.google.com,proxy
+DOMAIN-KEYWORD,googleusercontent,proxy
+DOMAIN-SUFFIX,earth-pa.googleapis.com,proxy
+DOMAIN-SUFFIX,growth-pa.googleapis.com,proxy
+DOMAIN-SUFFIX,mw1.google.com,proxy
+DOMAIN-SUFFIX,people-pa.googleapis.com,proxy
+DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com,proxy
+
 
 

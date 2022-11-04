@@ -71,7 +71,7 @@ DOMAIN-SUFFIX,ulogs.umengcloud.com,REJECT
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
 DOMAIN-SUFFIX,vthumb.killcovid2021.com,REJECT
 DOMAIN-SUFFIX,fans.91p20.space,REJECT
-DOMAIN-SUFFIX,cdn77.91p49.com,REJECT
+
 
 
 

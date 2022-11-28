@@ -75,7 +75,7 @@ DOMAIN-SUFFIX,vthumb.killcovid2021.com,REJECT
 DOMAIN-SUFFIX,imagev2.xmcdn.com,REJECT
 DOMAIN-SUFFIX,adse.ximalaya.com,REJECT
 DOMAIN-SUFFIX,fdfs.xmcdn.com,REJECT
-
+DOMAIN-SUFFIX,h5dl.ali.xmcdn.com,REJECT
 
 
 

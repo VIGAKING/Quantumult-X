@@ -80,11 +80,8 @@ DOMAIN-SUFFIX,audio.ali.xmcdn.com,REJECT
 
 DOMAIN-SUFFIX,imagev2.tx.xmcdn.com,REJECT
 DOMAIN-SUFFIX,adbehavior.ximalaya.com,REJECT
-
-
-
-
-
+DOMAIN-SUFFIX,aod.cos.tx.xmcdn.com,REJECT
+DOMAIN-SUFFIX,pds.ximalaya.com,REJECT
 
 
 

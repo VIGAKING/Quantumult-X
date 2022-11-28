@@ -76,8 +76,7 @@ DOMAIN-SUFFIX,imagev2.xmcdn.com,REJECT
 DOMAIN-SUFFIX,adse.ximalaya.com,REJECT
 DOMAIN-SUFFIX,fdfs.xmcdn.com,REJECT
 DOMAIN-SUFFIX,h5dl.ali.xmcdn.com,REJECT
-
-
+DOMAIN-SUFFIX,audio.ali.xmcdn.com,REJECT
 
 
 

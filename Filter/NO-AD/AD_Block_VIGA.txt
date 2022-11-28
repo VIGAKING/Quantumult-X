@@ -72,13 +72,15 @@ DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
 DOMAIN-SUFFIX,vthumb.killcovid2021.com,REJECT
 
 
+#DOMAIN-SUFFIX,imagev2.xmcdn.com,REJECT
+#DOMAIN-SUFFIX,imagev2.tx.xmcdn.com,REJECT
 DOMAIN-SUFFIX,adse.ximalaya.com,REJECT
+#DOMAIN-SUFFIX,fdfs.xmcdn.com,REJECT
+#DOMAIN-SUFFIX,h5dl.ali.xmcdn.com,REJECT
+#DOMAIN-SUFFIX,audio.ali.xmcdn.com,REJECT
 DOMAIN-SUFFIX,adbehavior.ximalaya.com,REJECT
+#DOMAIN-SUFFIX,aod.cos.tx.xmcdn.com,REJECT
 DOMAIN-SUFFIX,pds.ximalaya.com,REJECT
-
-
-
-
 
 
 

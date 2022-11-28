@@ -1,6 +1,6 @@
 #自定义去广告规则
 #订阅地址 https://raw.githubusercontent.com/VIGAKING/Quantumult-X/main/Filter/ND-AD/AD_Block_VIGA.txt
-#Update time : 2022.06.06
+#Update time : 2022.11.28
 
 
 #DOMAIN-SUFFIX,gw.alicdn.com,REJECT

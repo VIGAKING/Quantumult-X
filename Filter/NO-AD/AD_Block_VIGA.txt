@@ -8,8 +8,8 @@
 #DOMAIN-SUFFIX,api.weibo.com,REJECT
 #DOMAIN-SUFFIX,ether-pack.pangolin-sdk-toutiao.com,REJECT
 #DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao.com,REJECT
-#DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com,REJECT
 
+DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao.com,REJECT
 DOMAIN-KEYWORD,pa.googleapis.com,REJECT
 DOMAIN-KEYWORD,d3yuiw4.com,REJECT
 DOMAIN-SUFFIX,image.uczzd.cn,REJECT

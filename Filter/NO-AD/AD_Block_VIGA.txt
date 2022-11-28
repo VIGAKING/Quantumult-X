@@ -78,6 +78,7 @@ DOMAIN-SUFFIX,fdfs.xmcdn.com,REJECT
 DOMAIN-SUFFIX,h5dl.ali.xmcdn.com,REJECT
 DOMAIN-SUFFIX,audio.ali.xmcdn.com,REJECT
 
+DOMAIN-SUFFIX,imagev2.tx.xmcdn.com,REJECT
 
 
 

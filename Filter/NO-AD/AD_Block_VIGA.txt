@@ -71,9 +71,7 @@ DOMAIN-SUFFIX,adim.pinduoduo.com,REJECT
 DOMAIN-SUFFIX,ulogs.umengcloud.com,REJECT
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
 DOMAIN-SUFFIX,vthumb.killcovid2021.com,REJECT
-
-
-
+DOMAIN-SUFFIX,cdn77.91p49.com,REJECT
 
 DOMAIN-SUFFIX,ad.test.ximalaya.com,REJECT
 DOMAIN-SUFFIX,adse.test.ximalaya.com,REJECT

@@ -1,6 +1,6 @@
 #自定义去广告规则
 #订阅地址 https://raw.githubusercontent.com/VIGAKING/Quantumult-X/main/Filter/ND-AD/AD_Block_VIGA.txt
-#Update time : 2022.11.28
+#Update time : 2022.12.09
 
 
 #DOMAIN-SUFFIX,gw.alicdn.com,REJECT
@@ -73,15 +73,13 @@ DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
 DOMAIN-SUFFIX,vthumb.killcovid2021.com,REJECT
 
 
-#DOMAIN-SUFFIX,imagev2.xmcdn.com,REJECT
-#DOMAIN-SUFFIX,imagev2.tx.xmcdn.com,REJECT
-#DOMAIN-SUFFIX,adse.ximalaya.com,REJECT
-#DOMAIN-SUFFIX,fdfs.xmcdn.com,REJECT
-#DOMAIN-SUFFIX,h5dl.ali.xmcdn.com,REJECT
-#DOMAIN-SUFFIX,audio.ali.xmcdn.com,REJECT
-#DOMAIN-SUFFIX,adbehavior.ximalaya.com,REJECT
-#DOMAIN-SUFFIX,aod.cos.tx.xmcdn.com,REJECT
-#DOMAIN-SUFFIX,pds.ximalaya.com,REJECT
+
+
+DOMAIN-SUFFIX,ad.test.ximalaya.com,REJECT
+DOMAIN-SUFFIX,adse.test.ximalaya.com,REJECT
+DOMAIN-SUFFIX,adweb.test.ximalaya.com,REJECT
+DOMAIN-SUFFIX,adweb.ximalaya.com,REJECT
+
 
 
 
